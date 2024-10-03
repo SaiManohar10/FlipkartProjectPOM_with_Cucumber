@@ -10,16 +10,6 @@ This project is a Java-based Selenium web automation framework designed to autom
 - *Retry Mechanism*: Re-runs failed test cases to handle intermittent issues.
 - *HTML Report Generation*: Provides detailed test execution reports.
 
-## Documentation
-
-[Project Report]((https://github.com/SaiManohar10/FlipkartProjectPOM_with_Cucumber)/blob/main/ReadMe.md/Project%20Report%20alphbin.pdf)
-
-- Project report contains all the information like, Project Structure, About the Pass and Failed test cases
-
-[Test result screenshots](https://github.com/SaiManohar10/FlipkartProjectPOM_with_Cucumber/blob/main/ReadMe.md/TestResult.png)
-
-- Here available screenshots 
-
 ## Prerequisites
 - Java Development Kit (JDK) 8 or higher
 - Apache Maven
